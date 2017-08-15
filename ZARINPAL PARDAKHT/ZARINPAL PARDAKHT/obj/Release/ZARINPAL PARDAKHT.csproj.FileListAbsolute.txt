@@ -1,0 +1,12 @@
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\bin\Release\ZARINPAL PARDAKHT.exe.config
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\bin\Release\ZARINPAL PARDAKHT.exe
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\bin\Release\ZARINPAL PARDAKHT.pdb
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\bin\Release\zarinpal.dll
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\bin\Release\zarinpal.pdb
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\bin\Release\zarinpal.dll.config
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\obj\Release\ZARINPAL PARDAKHT.csprojResolveAssemblyReference.cache
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\obj\Release\ZARINPAL_PARDAKHT.Form1.resources
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\obj\Release\ZARINPAL_PARDAKHT.Properties.Resources.resources
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\obj\Release\ZARINPAL PARDAKHT.csproj.GenerateResource.Cache
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\obj\Release\ZARINPAL PARDAKHT.exe
+c:\users\alone boy\documents\visual studio 2017\Projects\ZARINPAL PARDAKHT\ZARINPAL PARDAKHT\obj\Release\ZARINPAL PARDAKHT.pdb
